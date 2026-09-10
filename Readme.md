@@ -80,7 +80,7 @@ This platform is a collaborative effort between dedicated intelligence and engin
 
 ### **🧠 Chatbot & Knowledge Extraction (RAG)**
 *   **[Ruchi Chandak](https://github.com/chandakruchi85-beep)** — Team Head
-*   **[Hrushikesh Kapre](https://github.com/Hrushi027-mitwpu)**
+*   **[Hrushikesh Kapre](https://github.com/techie-hrushik027)**
 *   **[Himanshu Raghav](https://github.com/Himanshu-Raghav1)**
 *   **[Rashi Malpani](https://github.com/rashimalpani)**
 
